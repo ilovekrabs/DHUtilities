@@ -1,4 +1,4 @@
-[!logo](https://media.discordapp.net/attachments/1006379004149891102/1034887085645123615/6a8ccfd84f426883017a8768bce1070bc5b78abf-1280x720.png?width=1440&height=490)
+![logo](https://media.discordapp.net/attachments/1006379004149891102/1034887085645123615/6a8ccfd84f426883017a8768bce1070bc5b78abf-1280x720.png?width=1440&height=490)
 
 # DHUtilities
 
